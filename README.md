@@ -29,7 +29,7 @@ Technologies used
 Github Javascript
 
 Support and contact details
-github.com/sktanui
+https://github.com/sktanui
 
 License
 The content of this documentation is licensed under the MIT license Copyright (c) 2024.
