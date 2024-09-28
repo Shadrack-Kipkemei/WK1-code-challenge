@@ -11,7 +11,7 @@ Installation Requirements
 Git, any code editor preferably visual studio code and a chrome browser as all code is meant to be tested in the chrome browser developer tools console since testing in a linux terminal will fail due to lack of some code implementations.
 
 Installation instruction
-Git clone https://github.com/sktanui/WK1-code-challenge.git
+Git clone https://github.com/Shadrack-Kipkemei/WK1-code-challenge
 
 Open you terminal and navigate to the project directory. This is relative to where you cloned the project in your local environment and will vary from user to user.
 
@@ -29,7 +29,7 @@ Technologies used
 Github Javascript
 
 Support and contact details
-https://github.com/sktanui
+https://github.com/Shadrack-Kipkemei
 
 License
 The content of this documentation is licensed under the MIT license Copyright (c) 2024.
