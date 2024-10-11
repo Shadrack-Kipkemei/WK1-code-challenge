@@ -1,12 +1,12 @@
 const speedLimit = 70;
 function speedDetector(speed) {
     if (speed < 70) {
-        console.log("OK")
+        console.log("OK");
     } else {
         const demeritPoints = Math.floor((speed - speedLimit) / 5);
-        console.log(`Points: ${demeritPoints}`)
+        console.log(`Points: ${demeritPoints}`);
         if (demeritPoints > 12) {
-            console.log("License suspended")
+            console.log("License suspended");
         }
     }
 }
